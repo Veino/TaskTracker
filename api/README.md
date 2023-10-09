@@ -87,7 +87,7 @@ To get started with the Task Tracker API using Python and Django, follow these s
 
 ## Usage
 
-You can use the Task Tracker API to manage tasks and action items in your application. Make HTTP requests to the provided endpoints to interact with the API. For example, to retrieve all tasks, send a GET request to `/api/tasks`.
+You can use the Task Tracker API to manage tasks and action items in your application. Make HTTP requests to the provided endpoints to interact with the API. For example, to retrieve all tasks, send a GET request to `/api/tasks`
 
 
 ## Contributing
